@@ -35,4 +35,4 @@ A sentiment analysis project focused on identifying and classifying customer fee
 
 ---
 
-💡 Ideal for demonstrating how QA principles apply to data pipelines and AI systems.
+ Ideal for demonstrating how QA principles apply to data pipelines and AI systems.
